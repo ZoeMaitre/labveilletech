@@ -1,10 +1,10 @@
 +++
 title = "Le ciel s’assombrit chez X (ex-twitter), du soleil à l’horizon pour Bluesky"
-date = "2024-08-30T19:54:02+00:00"
+date = "2024-12-04T19:54:02+00:00"
 tags = ["test"]
 draft = false
 author = "Zoé Maître"
-summary = "Cet article compare l’évolution de deux plateformes sociales majeures, X et Bluesky."
+summary = "Cet article compare l’évolution de deux plateformes sociales majeures, X (anciennement Twitter) et Bluesky. Il met en lumière les défis rencontrés par X sous la direction d’Elon Musk et la croissance rapide de Bluesky, perçue comme une alternative pertinente."
 +++
 
 
@@ -20,7 +20,7 @@ Cet article est important pour ma veille technologique, car il met en évidence 
 
 ---
 
-### À quel moment cet article sera utile
+### À quel moment cet article me sera utile
 
 1. **Analyser la concurrence entre réseaux sociaux :** comprendre comment les nouvelles plateformes comme Bluesky se positionnent face aux géants établis, notamment dans un contexte de crise de confiance envers X.
 
@@ -34,3 +34,4 @@ Cet article est important pour ma veille technologique, car il met en évidence 
 
 **Source :** Article de Pénélope Hubert, *Le ciel s’assombrit chez X (ex-twitter), du soleil à l’horizon pour Bluesky*, publié le 20 novembre 2024 sur Actualités.
 
+https://jai-un-pote-dans-la.com/x-twitter-concurrent-bluesky/
