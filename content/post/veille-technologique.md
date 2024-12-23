@@ -9,6 +9,8 @@ summary = "Cet article explique comment j'ai mis en place ma veille technologiqu
 
 Voici comment j'ai fait pour mettre en place ma veille technologique dans le domaine du marketing et de la communication. Je vais détailler les étapes, les outils utilisés et la manière dont je gère les informations recueillies.
 
+---
+
 ### 1. Comprendre les objectifs de la veille
 
 Avant de commencer, il était important de définir clairement les objectifs de cette veille technologique. Dans mon cas, il s'agissait de :
@@ -18,6 +20,8 @@ Avant de commencer, il était important de définir clairement les objectifs de 
 - Analyser les stratégies de la concurrence.
 - Détecter des opportunités de collaboration ou de nouvelles pratiques.
 
+---
+
 ### 2. Sélectionner les thèmes et sujets à surveiller
 
 Une fois les objectifs définis, j'ai listé les thèmes principaux à surveiller, tels que :
@@ -26,6 +30,8 @@ Une fois les objectifs définis, j'ai listé les thèmes principaux à surveille
 - Les nouvelles fonctionnalités des réseaux sociaux (Instagram, LinkedIn, TikTok, etc.).
 - Les tendances en contenu interactif pour les campagnes marketing.
 - Les évolutions des règlements (RGPD, cookies, etc.).
+
+---
 
 ### 3. Mes sources et outils actuels
 
@@ -45,6 +51,8 @@ Voici les ressources principales que j'utilise actuellement :
 - **Stratégies** : Newsletter.
 - **L'ADN** : Newsletter.
 
+---
+
 ### 4. Structurer et organiser la veille
 
 J'ai mis en place un système simple mais efficace pour gérer et classer les informations dans Notion. Voici comment je procède :
@@ -54,12 +62,16 @@ J'ai mis en place un système simple mais efficace pour gérer et classer les in
 - **Classement des informations** : J'attribue des étiquettes ou des tags à chaque contenu pour faciliter les recherches ultérieures.
 - **Analyse personnelle** : Une fois les informations regroupées, je prends le temps de les trier selon leur pertinence pour mes besoins spécifiques.
 
+---
+
 ### 5. Réévaluer régulièrement le système de veille
 
 Enfin, la veille n'est pas un processus figé. J'ai intégré des révisions périodiques pour optimiser le système :
 
 - **Évaluation des outils** : Certains outils sont remplacés si d'autres plus efficaces apparaissent.
 - **Mise à jour des thèmes** : Les priorités évoluent en fonction des tendances du secteur.
+
+---
 
 ### Conclusion
 

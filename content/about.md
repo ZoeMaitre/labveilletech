@@ -10,6 +10,8 @@ Actuellement, je suis en dernière année d’Ingénierie des Médias à Yverdon
 
 Cet article retrace les étapes de ma démarche, depuis l’introspection jusqu’au choix de ce domaine, en passant par mon positionnement professionnel et mes ambitions futures.
 
+---
+
 ### Mon Introspection
 
 ![](/images/IKIGAI.png)
@@ -28,6 +30,7 @@ Voici ce qui est ressorti de cette introspection :
 
 Cet exercice m’a permis de constater que mes valeurs et mes compétences trouvent un alignement naturel dans la communication et la création de lien entre les marques et leurs publics.
 
+---
 
 ### Choix de Mon Domaine de Veille
 À partir de cette introspection, j’ai choisi de me concentrer sur le marketing et la communication, un domaine où ma créativité et ma curiosité peuvent s’exprimer pleinement. Voici une fiche récapitulative du domaine :
@@ -36,6 +39,8 @@ Cet exercice m’a permis de constater que mes valeurs et mes compétences trouv
 **Mots-clés** : réseaux sociaux, stratégie, publicité, analyse, segmentation, positionnement, public cible, branding.
 **Sous-domaines** : marketing digital, communication interne, communication externe, publicité, branding.
 **Pourquoi ce domaine** : Je suis créative, curieuse et attentive aux besoins des autres, des qualités essentielles pour réussir dans ce secteur.
+
+---
 
 ### Mon Positionnement et Mon Expertise
 Pour mieux comprendre ma place dans ce domaine, j’ai réfléchi à mes compétences à travers un "axe" positionnant quatre dimensions : expertise, communication, technique et management.
