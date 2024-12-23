@@ -1,7 +1,7 @@
 +++
 title = "Pourquoi et comment investir davantage dans le contenu BOFU?"
 date = "2024-12-04T19:34:02+00:00"
-tags = ["blog"]
+tags = ["ROI", "Conversion", "Parcours clients"]
 draft = false
 author = "Zoé Maître"
 summary = "Cet article explique pourquoi il est crucial d'investir dans le contenu BOFU (Bottom of the Funnel) pour une stratégie marketing efficace. Il met en avant l'importance de cibler les prospects proches de la conversion avec des informations détaillées et personnalisées pour améliorer le retour sur investissement et augmenter les conversions."

@@ -1,7 +1,7 @@
 +++
 title = "Étude : l’impact de l’IA pour les professionnels du SEO et du contenu"
 date = "2024-12-04T19:44:02+00:00"
-tags = ["blog"]
+tags = ["IA", "SEO"]
 draft = false
 author = "Zoé Maître"
 +++

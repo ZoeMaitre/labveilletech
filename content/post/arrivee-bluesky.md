@@ -1,7 +1,7 @@
 +++
 title = "Le ciel s’assombrit chez X (ex-twitter), du soleil à l’horizon pour Bluesky"
 date = "2024-12-04T19:54:02+00:00"
-tags = ["test"]
+tags = ["Réseaux sociaux"]
 draft = false
 author = "Zoé Maître"
 summary = "Cet article compare l’évolution de deux plateformes sociales majeures, X (anciennement Twitter) et Bluesky. Il met en lumière les défis rencontrés par X sous la direction d’Elon Musk et la croissance rapide de Bluesky, perçue comme une alternative pertinente."

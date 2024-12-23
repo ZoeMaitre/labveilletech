@@ -1,7 +1,7 @@
 +++
 title = "Les influenceurs virtuels, la nouvelle arme secrète des marques?"
 date = "2024-12-04T18:34:02+00:00"
-tags = ["blog"]
+tags = ["Influenceurs", "Réseaux sociaux", "IA"]
 draft = false
 author = "Zoé Maître"
 summary = "Cet article explore l'essor des influenceurs virtuels et leur impact sur les stratégies marketing des marques. Il examine comment ces entités numériques deviennent des outils puissants pour les entreprises, en offrant des avantages uniques par rapport aux influenceurs humains traditionnels."

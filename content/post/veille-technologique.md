@@ -1,49 +1,66 @@
 +++
-title = "Is that a cooking show?"
-date = "2017-08-30T18:34:02+00:00"
-tags = ["futurama"]
+title = "Mise en place d'une veille technologique"
+date = "2024-12-04T18:34:02+00:00"
+tags = ["veille technologique", "marketing", "communication"]
 draft = false
-author = "admin"
+author = "Zoé Maître"
+summary = "Cet article explique comment j'ai mis en place ma veille technologique dans le domaine du marketing et de la communication. Il aborde la définition des objectifs, la sélection des thèmes à surveiller, les sources et outils actuels, ainsi que la structuration et l'organisation des informations recueillies."
 +++
 
-With a warning label this big, you know they gotta be fun! Son, as your lawyer, I declare y'all are in a 12-piece bucket o' trouble. But I done struck you a deal: Five hours of community service cleanin' up that ol' mess you caused.
+Voici comment j'ai fait pour mettre en place ma veille technologique dans le domaine du marketing et de la communication. Je vais détailler les étapes, les outils utilisés et la manière dont je gère les informations recueillies.
 
-Why, those are the Grunka-Lunkas! They work here in the Slurm factory. Hi, I'm a naughty nurse, and I really need someone to talk to. $9. 95 a minute. Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his wife holding up? …To shreds, you say.
+### 1. Comprendre les objectifs de la veille
 
-## Do a flip!
+Avant de commencer, il était important de définir clairement les objectifs de cette veille technologique. Dans mon cas, il s'agissait de :
 
-She also liked to shut up! Belligerent and numerous. Uh, is the puppy mechanical in any way? Is that a cooking show? I found what I need. And it's not friends, it's things.
+- Identifier les nouvelles tendances et innovations en marketing digital et communication.
+- Suivre l'évolution des outils et plateformes (par exemple, les réseaux sociaux ou les logiciels de gestion de campagnes).
+- Analyser les stratégies de la concurrence.
+- Détecter des opportunités de collaboration ou de nouvelles pratiques.
 
-1. Ven ve voke up, ve had zese wodies.
-2. Oh, I think we should just stay friends.
-3. Can we have Bender Burgers again?
-## Hello Morbo, how's the family?
+### 2. Sélectionner les thèmes et sujets à surveiller
 
-Please, Don-Bot… look into your hard drive, and open your mercy file! Who am I making this out to? It's okay, Bender. I like cooking too. Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.
+Une fois les objectifs définis, j'ai listé les thèmes principaux à surveiller, tels que :
 
-* My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
-* Ummm…to eBay?
-* One hundred dollars.
-Stop it, stop it. It's fine. I will 'destroy' you! Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew. Calculon is gonna kill us and it's all everybody else's fault!
+- L'intelligence artificielle dans le marketing.
+- Les nouvelles fonctionnalités des réseaux sociaux (Instagram, LinkedIn, TikTok, etc.).
+- Les tendances en contenu interactif pour les campagnes marketing.
+- Les évolutions des règlements (RGPD, cookies, etc.).
 
-There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! And when we woke up, we had these bodies. When will that be? Fatal. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man.
+### 3. Mes sources et outils actuels
 
-Morbo can't understand his teleprompter because he forgot how you say that letter that's shaped like a man wearing a hat. Bender?! You stole the atom. What are their names? Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+Pour identifier les outils et sources pertinents, j'ai combiné plusieurs approches :
 
-I don't 'need' to drink. I can quit anytime I want! Shut up and take my money! Hey, whatcha watching? You mean while I'm sleeping in it? No, she'll probably make me do it. Yes, if you make it look like an electrical fire. When you do things right, people won't be sure you've done anything at all.
+- **Recommandations personnelles** : Certaines sources, comme "J'ai un pote dans la com", m'étaient déjà familières car je suivais leur newsletter avant ce cours.
+- **Recherche en ligne** : J'ai exploré des blogs, forums et articles spécialisés pour trouver des plateformes fiables.
+- **Essais et ajustements** : J'ai testé différents outils et gardé ceux qui correspondaient le mieux à mes besoins.
 
-This is the worst part. The calm before the battle. It must be wonderful. Shut up and take my money! Hey, tell me something. You've got all this money. How come you always dress like you're doing your laundry?
+Voici les ressources principales que j'utilise actuellement :
 
-Five hours? Aw, man! Couldn't you just get me the death penalty? With gusto. Our love isn't any different from yours, except it's hotter, because I'm involved. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+- **J'ai un pote dans la com** : Newsletter, Instagram, LinkedIn, site internet.
+- **Culture Pub** : Instagram.
+- **Blog du modérateur** : Newsletter, site internet.
+- **Bannouze** : Spotify (podcasts).
+- **Flipboard** : Application et site web pour agréger des articles.
+- **Stratégies** : Newsletter.
+- **L'ADN** : Newsletter.
 
-Bender, this is Fry's decision… and he made it wrong. So it's time for us to interfere in his life. I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! Hey, you add a one and two zeros to that or we walk!
+### 4. Structurer et organiser la veille
 
-No! The cat shelter's on to me. Shinier than yours, meatbag. Morbo can't understand his teleprompter because he forgot how you say that letter that's shaped like a man wearing a hat. We're also Santa Claus!
+J'ai mis en place un système simple mais efficace pour gérer et classer les informations dans Notion. Voici comment je procède :
 
-Fry! Quit doing the right thing, you jerk! Good man. Nixon's pro-war and pro-family. Then throw her in the laundry room, which will hereafter be referred to as "the brig". You've killed me! Oh, you've killed me!
+- **Collecte des informations** : Chaque fois qu'un article, une publication ou une idée pertinente est identifié(e), je l'ajoute dans Notion.
+- **Organisation par thèmes** : J'ai créé différentes sections dans Notion, correspondant aux thèmes que je surveille (IA, publicité, tendances des réseaux sociaux, etc.).
+- **Classement des informations** : J'attribue des étiquettes ou des tags à chaque contenu pour faciliter les recherches ultérieures.
+- **Analyse personnelle** : Une fois les informations regroupées, je prends le temps de les trier selon leur pertinence pour mes besoins spécifiques.
 
-Fry, you can't just sit here in the dark listening to classical music. And why did 'I' have to take a cab? You know, I was God once. Hello Morbo, how's the family? Tell her she looks thin.
+### 5. Réévaluer régulièrement le système de veille
 
-I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas. Okay, I like a challenge. So, how 'bout them Knicks? Ummm…to eBay?
+Enfin, la veille n'est pas un processus figé. J'ai intégré des révisions périodiques pour optimiser le système :
 
-Generated with [fillerama](http://fillerama.io).
+- **Évaluation des outils** : Certains outils sont remplacés si d'autres plus efficaces apparaissent.
+- **Mise à jour des thèmes** : Les priorités évoluent en fonction des tendances du secteur.
+
+### Conclusion
+
+Mettre en place une veille technologique efficace demande une planification rigoureuse, des outils adaptés et un suivi constant. En suivant ces étapes, j'ai pu structurer un système qui me permet de rester à jour dans ce secteur en perpétuelle évolution.
