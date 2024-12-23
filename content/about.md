@@ -50,3 +50,13 @@ Pour mieux comprendre ma place dans ce domaine, j’ai réfléchi à mes compét
 Je me situe principalement dans la communication, mais avec une forte inclination pour l’expertise. J’aime transmettre des idées, mais également approfondir mes connaissances pour devenir une référence dans mon domaine.
 
 Mon objectif est de renforcer ma maîtrise des outils de communication digitale tout en développant des compétences en stratégie marketing et en branding. Cette double approche me permettra de combiner créativité et rigueur pour répondre aux besoins des marques et de leurs publics.
+
+---
+
+### Choix du SSG
+
+Pour la création de ce blog, j’ai choisi d’utiliser Hugo, un générateur de site statique recommandé par mon professeur. Hugo m’a permis de structurer mon blog de manière simple et rapide, tout en bénéficiant de sa flexibilité et de ses bonnes performances.
+
+J’ai conservé le thème que le professeur nous a montré, bien que ce ne soit pas nécessairement le thème idéal pour mon projet. Cependant, ayant rapidement compris son fonctionnement, j’ai préféré ne pas repartir de zéro et rester sur une base stable pour éviter de devoir recommencer le processus de personnalisation avec un autre thème. Ce choix m’a permis de gagner du temps et de me concentrer davantage sur le contenu de mon blog plutôt que sur les aspects techniques.
+
+Bien que le thème ne soit pas le plus optimal, il répond aux besoins de base et me permet de rester efficace dans la mise en place de mon projet, tout en conservant une certaine cohérence avec le travail fourni dans le cadre de cette formation.
